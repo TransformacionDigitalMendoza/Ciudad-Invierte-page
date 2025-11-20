@@ -270,7 +270,7 @@ header {
 
 .card1 {
     /* IMAGEN DE FONDO */
-    background-image: url("../assets/images/city.jpg");
+    background-image: url("assets/images/city.jpg");
     background-size: cover;
     background-position: center;
 }
