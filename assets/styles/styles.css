@@ -136,7 +136,7 @@ header {
       box-shadow: 2px 2px 6px black;
   border-radius: 32px;
       background: #ffffff;
-    background: linear-gradient(-180deg, #00000060 0%, #000000c0 100%), url(assets/images/pexels-imagevain-2539658.jpg);
+    background: linear-gradient(-180deg, #00000060 0%, #000000c0 100%), url(../assets/images/pexels-imagevain-2539658.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -270,28 +270,28 @@ header {
 
 .card1 {
     /* IMAGEN DE FONDO */
-    background-image: url("assets/images/city.jpg");
+    background-image: url("../assets/images/city.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .card2 {
     /* IMAGEN DE FONDO */
-    background-image: url("assets/images/centro.jpg");
+    background-image: url("../assets/images/centro.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .card3 {
     /* IMAGEN DE FONDO */
-    background-image: url("assets/images/procrear.jpg");
+    background-image: url("../assets/images/procrear.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .card4 {
     /* IMAGEN DE FONDO */
-    background-image: url("assets/images/central-park.jpg");
+    background-image: url("../assets/images/central-park.jpg");
     background-size: cover;
     background-position: center;
 }
